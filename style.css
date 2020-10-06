@@ -1,8 +1,9 @@
-#personDisplay{
+#peopleDisplay {
     display: flex;
     flex-wrap: wrap;
 }
-.personBlock{
+.clickPic {
+    list-style: none;
     margin: 2px 8px 2px 8px;
     border: none;
 }
